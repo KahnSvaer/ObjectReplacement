@@ -27,6 +27,10 @@ This project utilizes AI models to detect objects in images and replace them wit
 ## Usage
 Run the script and provide an image URL and desired labels. The system will detect objects, generate masks, and replace the objects in the image based on the prompt.
 
+## Result
+![ObjectReplacementResult](https://github.com/user-attachments/assets/87191f69-fc22-43e1-a96b-27e117e229bd)
+
+
 ## License
 This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for more details.
 
